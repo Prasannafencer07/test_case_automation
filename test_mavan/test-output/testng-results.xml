@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-17T11:56:30 IST" name="Default suite" finished-at="2024-01-17T11:56:34 IST" duration-ms="3329">
+  <suite started-at="2024-01-17T12:16:38 IST" name="Suite" finished-at="2024-01-17T12:16:40 IST" duration-ms="2955">
     <groups>
     </groups>
-    <test started-at="2024-01-17T11:56:30 IST" name="Default test" finished-at="2024-01-17T11:56:34 IST" duration-ms="3329">
+    <test started-at="2024-01-17T12:16:38 IST" name="Test" finished-at="2024-01-17T12:16:40 IST" duration-ms="2955">
       <class name="test_mavan_project.test_demo_class">
-        <test-method signature="test()[pri:0, instance:test_mavan_project.test_demo_class@15c43bd9]" started-at="2024-01-17T11:56:30 IST" name="test" finished-at="2024-01-17T11:56:34 IST" duration-ms="3302" status="PASS">
+        <test-method signature="test()[pri:0, instance:test_mavan_project.test_demo_class@c267ef4]" started-at="2024-01-17T12:16:38 IST" name="test" finished-at="2024-01-17T12:16:40 IST" duration-ms="2929" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- test_mavan_project.test_demo_class -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
