@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
- name: 'LocalPM'
+ name: 'Rechard'
 #pool:
   #vmImage: windows-latest
 
