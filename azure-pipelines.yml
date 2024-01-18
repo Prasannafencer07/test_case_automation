@@ -6,7 +6,7 @@
 trigger:
 - master
 pool:
-name: LocalPM
+name: 'LocalPM'
 #pool:
   #vmImage: ubuntu-latest
 
